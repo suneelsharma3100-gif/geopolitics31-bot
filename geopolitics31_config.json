@@ -1,0 +1,86 @@
+{
+  "bot_token": "8859635228:AAENKRYjGEHoCclz_9gXedUTcwMTBSsUQuA",
+  "channel_id": "-1003740019362",
+  "feeds": [
+    {
+      "name": "Reuters via Google News",
+      "url": "https://news.google.com/rss/search?q=reuters+world+news+when:1d&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "CNN World News",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss"
+    },
+    {
+      "name": "BBC World News",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/rss"
+    },
+    {
+      "name": "France24 English",
+      "url": "https://www.france24.com/en/rss"
+    },
+    {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/rss"
+    },
+    {
+      "name": "Google News Ukraine War",
+      "url": "https://news.google.com/rss/search?q=ukraine+war+when:1d&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News Israel Gaza",
+      "url": "https://news.google.com/rss/search?q=israel+gaza+when:1d&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "name": "Google News Military Conflict",
+      "url": "https://twitter.com/rss/search?q=military+conflict+when:1d&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "keywords": [
+    "missile strike", "missiles strike", "drone strike", "drone attacks",
+    "airstrike", "airstrikes", "artillery strike", "artillery barrage",
+    "shelling", "tank assault", "tank column", "tanks advancing",
+    "fighter jet", "fighter jets", "warship", "warships",
+    "naval blockade", "bombing", "bombed", "bombed in",
+    "explosion at", "explosions rock", "armed clash", "crossfire",
+    "gunfight", "military convoy", "armored vehicle", "armored vehicles",
+    "helicopter gunship", "invasion", "invasion of", "occupation",
+    "siege", "under siege", "assault", "offensive", "counteroffensive",
+    "frontline", "front lines", "troop mobilization", "troop buildup",
+    "troop deployment", "troops massing", "military buildup",
+    "arms deal", "arms shipment", "weapons shipment", "weapons transferred",
+    "defense pact", "war crime", "war crimes", "civilian casualties",
+    "civilians killed", "killed in", "bodies recovered", "casualties reported",
+    "warplanes", "battle for", "fighting for", "fierce fighting",
+    "heavy fighting", "house-to-house", "ground assault"
+  ],
+  "skip_keywords": [
+    "el nino", "science prize", "shopping", "bars", "body-shaming",
+    "cadets", "astronaut", "space station", "music festival", "concert",
+    "movie", "film festival", "sports", "football", "soccer", "tennis",
+    "olympics", "cooking", "recipe", "food", "travel", "fashion",
+    "beauty", "health tips", "diet", "exercise", "mental health",
+    "therapy", "dating", "relationship advice", "parenting", "baby",
+    "pregnancy", "pet", "dog", "cat", "wildfire season", "earthquake",
+    "flood", "hurricane", "typhoon", "tornado", "volcano",
+    "climate change", "global warming", "carbon emissions",
+    "decarbon", "renewable energy", "solar power", "wind power",
+    "electric vehicle", "ev sales", "gdp", "inflation", "interest rate",
+    "stock market", "shares", "crypto", "bitcoin",
+    "trade deal", "tariff", "sanction", "embargo",
+    "diplomat", "summit", "meeting", "talks", "negotiations",
+    "peace talks", "peace deal", "treaty", "accord", "agreement",
+    "deal reached", "protest", "protests", "demonstration", "march",
+    "rally", "activist", "activists", "movement", "movements",
+    "strike action", "labour strike", "labor strike", "union",
+    "unions", "worker strike", "teachers strike", "nurses strike",
+    "police strike", "general strike", "walkout", "walkouts",
+    "boycott", "boycotts"
+  ],
+  "poll_interval_seconds": 1800,
+  "max_articles_per_run": 20,
+  "telegram_timeout_seconds": 30
+}
